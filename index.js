@@ -1,6 +1,4 @@
 import ReactDOM from 'react-dom';
-//import Card from "react-bootstrap/Card";
-//import React from "react";
 import React, { Component } from 'react';
 import { w3cwebsocket as W3CWebSocket } from "websocket";
 import { Card, Avatar, Input, Typography } from 'antd';
