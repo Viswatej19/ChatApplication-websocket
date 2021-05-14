@@ -1,3 +1,1 @@
-.github
-.qawolf
 node_modules
